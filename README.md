@@ -1,4 +1,4 @@
-<h2 align="center">Fabrica de picolés (Banco de Dados)</h2>
+<h2 align="center">Fabrica de picolés em Banco de dados</h2>
 
 ___
 
@@ -17,15 +17,15 @@ ___
 
 ___
 
-<img src="https://readme-maker.herokuapp.com/uploads/d1086db6403bc18f-fabrica-de-picoles.png" width="1200">
+<img src="https://readme-maker.herokuapp.com/uploads/9a871033e7d2faa5-fabrica-de-picoles.png" width="1200">
 
 ## :information_source: Sobre
 
-Atividade prática de modelagem de dados
+Modelagem de dados
 
 ## :interrobang: Motivo
 
-Praticar
+Estudos
 
 ## :seedling: Requisitos Mínimos
 
@@ -45,3 +45,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - Faça um commit com suas mudanças
 - 'Push' a sua branch
 - Ir em Pull Requests do projeto original e criar uma pull request com o seu commit
+
